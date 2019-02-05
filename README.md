@@ -7,7 +7,7 @@ Develop a CLI application in NodeJS/PHP that will do the following:
 * Ask for user first and last name
 * Ask for user email address and validate it with RegExp
 * Ask for user's address and verify the address against some Geocoding API
-* Once verification id done, it will print out the information to STDOUT\
+* Once verification id done, it will print out the information to STDOUT
 
 
 ## Frontend
